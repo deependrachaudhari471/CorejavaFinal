@@ -1,6 +1,6 @@
-private static final String FILE_PATH = "D:/ProductHierachyData/ProductHierachyDataPOC.xlsx";
+private static final String FILE_PATH = "D:/TestExcelFilePOC.xlsx";
 
-	private static List<Object> getRtfList() {
+	private static List<Object> getList() {
 		List studentList = new ArrayList();
 		FileInputStream fis = null;
 		try {
